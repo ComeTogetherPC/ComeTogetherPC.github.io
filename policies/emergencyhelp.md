@@ -12,7 +12,7 @@ The General Data Protection Regulation (GDPR) aims to strengthen data protection
 
 ## ABOUT US
 
-mergencyHelp Passports is a short term pivot of ComeTogether. ComeTogether Private Company is registered in Greece and our registered office is located at Tompazi 32 Thessaloniki, 546 44, Greece.
+EmergencyHelp Passports is a short term pivot of ComeTogether. ComeTogether Private Company is registered in Greece and our registered office is located at Tompazi 32 Thessaloniki, 546 44, Greece.
 Overall, EmergencyHelp Passport’s passport solution, provides a way to validate both health tests and antibody test status.
 
 For the purpose of the Data Protection Legislation and this notice, we are the "Data Controller", which means that we are responsible for deciding how we hold and use any personal data about you. We are required under the Data Protection Legislation to notify you of the information contained in this Privacy Notice.

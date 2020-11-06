@@ -12,7 +12,7 @@ The General Data Protection Regulation (GDPR) aims to strengthen data protection
 
 ## ABOUT US
 
-mergencyHelp Passports is a short term pivot of ComeTogether. ComeTogether Private Company is registered in Greece and our registered office is located at Tompazi 32 Thessaloniki, 546 44, Greece.
+BackTogether Passports is a short term pivot of ComeTogether. ComeTogether Private Company is registered in Greece and our registered office is located at Tompazi 32 Thessaloniki, 546 44, Greece.
 Overall, BackTogether Passport’s passport solution, provides a way to validate both health tests and antibody test status.
 
 For the purpose of the Data Protection Legislation and this notice, we are the "Data Controller", which means that we are responsible for deciding how we hold and use any personal data about you. We are required under the Data Protection Legislation to notify you of the information contained in this Privacy Notice.
@@ -45,14 +45,15 @@ We will process this data on the basis of your consent in signing up to our news
 ## WHAT WE DO
 
 We use the information that we collect as follows:
+
 - Specific Reason
-If you provide personal data for a certain purpose, we may use the personal data solely in connection with the purpose for which it was provided. For instance, if you contact us by e-mail, we will use the Personal Data you provide to answer your question or resolve your problem.
+  If you provide personal data for a certain purpose, we may use the personal data solely in connection with the purpose for which it was provided. For instance, if you contact us by e-mail, we will use the Personal Data you provide to answer your question or resolve your problem.
 - Internal Business Purposes-Legitimate interests
-We may use your personal data for internal business purposes, including to help us improve the content and functionality of our services, to better understand our users, to improve the Services, to manage your account and provide you with customer service, and to generally manage our services and business.
+  We may use your personal data for internal business purposes, including to help us improve the content and functionality of our services, to better understand our users, to improve the Services, to manage your account and provide you with customer service, and to generally manage our services and business.
 - Marketing
-We may use your personal data for our marketing and advertising purposes. We do this in order to inform you about services or events webelieve might be of interest to you. You can always ''opt out'' by sending as an email to info@cometogether.network
+  We may use your personal data for our marketing and advertising purposes. We do this in order to inform you about services or events webelieve might be of interest to you. You can always ''opt out'' by sending as an email to info@cometogether.network
 - Use of Interest-Based Data
-We use the information we have to make suggestions for you, such as events you may be interested in. To create personalized information that is unique and relevant to you, we use your connections, preferences, interests and activities based on the data we collect and learn from you.
+  We use the information we have to make suggestions for you, such as events you may be interested in. To create personalized information that is unique and relevant to you, we use your connections, preferences, interests and activities based on the data we collect and learn from you.
 - For reasons of public interest in the area of public health, such as protecting against serious cross-border threats to health or ensuring high standards of healthcare and of medicinal products or medical devices.
 - Comply with legal obligation
 
@@ -77,6 +78,7 @@ We keep your information only so long as we need it to fulfill the purposes desc
 It is important that any and all personal data we hold about you is accurate and current. Should any of your personal information change,please notify us of such changes immediately by contacting us.
 
 You have several individual rights in relation to your personal data that we collect. In particular, you have the right to:
+
 - Request access to your personal data.
 - Request any inaccuracies in your personal information be corrected
 - Request erasure of your personal data.
