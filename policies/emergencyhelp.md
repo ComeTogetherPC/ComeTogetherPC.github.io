@@ -45,16 +45,16 @@ We will process this data on the basis of your consent in signing up to our news
 ## WHAT WE DO
 
 We use the information that we collect as follows:
-● Specific Reason
+- Specific Reason
 If you provide personal data for a certain purpose, we may use the personal data solely in connection with the purpose for which it was provided. For instance, if you contact us by e-mail, we will use the Personal Data you provide to answer your question or resolve your problem.
-● Internal Business Purposes-Legitimate interests
+- Internal Business Purposes-Legitimate interests
 We may use your personal data for internal business purposes, including to help us improve the content and functionality of our services, to better understand our users, to improve the Services, to manage your account and provide you with customer service, and to generally manage our services and business.
-● Marketing
+- Marketing
 We may use your personal data for our marketing and advertising purposes. We do this in order to inform you about services or events webelieve might be of interest to you. You can always ''opt out'' by sending as an email to info@cometogether.network
-● Use of Interest-Based Data
+- Use of Interest-Based Data
 We use the information we have to make suggestions for you, such as events you may be interested in. To create personalized information that is unique and relevant to you, we use your connections, preferences, interests and activities based on the data we collect and learn from you.
-● For reasons of public interest in the area of public health, such as protecting against serious cross-border threats to health or ensuring high standards of healthcare and of medicinal products or medical devices.
-● Comply with legal obligation
+- For reasons of public interest in the area of public health, such as protecting against serious cross-border threats to health or ensuring high standards of healthcare and of medicinal products or medical devices.
+- Comply with legal obligation
 
 ## DATA STORAGE
 
@@ -74,12 +74,13 @@ We keep your information only so long as we need it to fulfill the purposes desc
 
 ## YOUR RIGHTS
 
-It is important that any and all personal data we hold about you is accurate and current. Should any of your personal information change,please notify us of such changes immediately by contacting us.{'\n'}{'\n'}You have several individual rights in relation to your personal data that we collect. In particular, you have the right to:
+It is important that any and all personal data we hold about you is accurate and current. Should any of your personal information change,please notify us of such changes immediately by contacting us.
 
-● Request access to your personal data.
-● Request any inaccuracies in your personal information be corrected
-● Request erasure of your personal data.
-● You may ask to object or restrict the processing of your personal data where there is something about your particular circumstances which makes you want to object to processing even when we are relying on a legitimate interest for that processing.
+You have several individual rights in relation to your personal data that we collect. In particular, you have the right to:
+- Request access to your personal data.
+- Request any inaccuracies in your personal information be corrected
+- Request erasure of your personal data.
+- You may ask to object or restrict the processing of your personal data where there is something about your particular circumstances which makes you want to object to processing even when we are relying on a legitimate interest for that processing.
 
 Additionally, where we collect your personal details for sending you newsletters, campaigns or updates related to our work, you have the right at any time to notify us that you no longer want to receive this in-formation. To withdraw you consent you can use the “Unsubscribe”link present at the bottom of every email communication we send oryou can contact us at info@cometogether.network.
 
